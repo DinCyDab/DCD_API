@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Sorting;
+import java.util.ArrayList;
 
 /**
  *
@@ -18,6 +19,10 @@ public class SortingArrays {
                  }
              }
          }
+    }
+    
+    public void bubbleSort(ArrayList<Integer> array){
+        
     }
     
     public void swap(int[] array, int i, int j){
